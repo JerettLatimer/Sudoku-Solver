@@ -6,8 +6,8 @@
 ### Input Structure
 
 * User enters an integer **greater than or equal to 2** and **less than or equal 35** representing the size of the board.
-* User follows with a single space, then enter another integer representing the width of the internal region.
-* A block of numbers in base 36, following the size restraints, is then entered into the program. This represents a partially completed puzzle where the empty spaces are each '0'.
+* User follows with a single space, then enters another integer representing the width of the internal region.
+* A block of numbers in base 36, following the size restraints, is then entered into the program. This represents a partially completed puzzle. Empty spaces are represented as a '0'.
 * Finally, a lone zero indicates the end of input.
 * After the user hits enter, the program outputs the fully solved sudoku puzzle!
 * Example Input:
