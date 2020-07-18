@@ -10,7 +10,8 @@
 * A block of numbers in base 36, following the size restraints, is then entered into the program. This represents a partially completed puzzle. Empty spaces are represented as a '0'.
 * Finally, a lone zero indicates the end of input.
 * After the user hits enter, the program outputs the fully solved sudoku puzzle!
-* Example Input:
+
+**Example Input:**
 ```
 12 4
 0 0 3 4 A 8 0 0 0 2 0 0
